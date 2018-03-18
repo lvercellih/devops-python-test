@@ -102,3 +102,4 @@ ENV/
 
 # extras
 *.sqlite3
+.idea
